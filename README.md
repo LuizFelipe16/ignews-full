@@ -64,7 +64,7 @@ How to
 
 ```bash
 1. git clone
-2. cd ignite-challenge-refactoring
+2. cd ignews-full
 ```
 
 - Install the dependencies:
